@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kalkulator Volume Balok</string>
+    <string name="hint_panjang">Masukkan panjang balok</string>
+    <string name="hint_lebar">Masukkan lebar balok</string>
+    <string name="hint_tinggi">Masukkan tinggi balok</string>
+    <string name="btn_hitung">Hitung Volume Balok</string>
+    <string name="txt_hasil">Volume Balok: </string>
+</resources>
